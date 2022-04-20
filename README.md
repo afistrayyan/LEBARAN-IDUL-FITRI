@@ -10,7 +10,7 @@
     <section id="particles-js">
         <div class="text">
             <h1>KELUARGA BESAR<br><span>BANI THOHA MURTADLO</span></h1>
-            <h2>Selamat Idul Fitri 1441 H<br><span>Minal'Aidin wal-Faizin || Mohon Maaf Lahir Dan Batin</span></h2>
+            <h2>Selamat Idul Fitri 1443 H<br><span>Minal'Aidin wal-Faizin || Mohon Maaf Lahir Dan Batin</span></h2>
         </div>
         <div class="masjid"></div>
     </section>
