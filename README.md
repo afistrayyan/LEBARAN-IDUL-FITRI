@@ -1,8 +1,8 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Selamat Idul Fitri 1441 H</title>
+    <title>Selamat Idul Fitri 1443 H</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
